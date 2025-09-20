@@ -1,3 +1,3 @@
 # apnacollage-demo
 This is my first Git Repository <br>
-Author-chethan
+Author-chethan H C
